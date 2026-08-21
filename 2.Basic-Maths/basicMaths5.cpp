@@ -17,6 +17,7 @@ int main(){
         {
             MaxNum = iNo2;
         }
+        
         iNo1 = iNo1 / 10;
 
     }
